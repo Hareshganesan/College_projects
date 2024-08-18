@@ -32,8 +32,8 @@
 
 MD_MAX72XX mx = MD_MAX72XX(HARDWARE_TYPE, CS_PIN, MAX_DEVICES);
 
-const char ssid[] = "POCO M5";
-const char password[] = "Paathuusepannu0";
+const char ssid[] = "SSID";
+const char password[] = "Your Pwd";
 
 WiFiServer server(80);
 
